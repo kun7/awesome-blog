@@ -1,0 +1,32 @@
+.header {
+    text-align: center;
+    color: #2E7AD3;
+    margin:45px 0;
+
+}
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 32px;
+    color: #104C90;
+}
+p {
+    font-size:16px;
+}
+.blog-post{
+    background: #F1F1F1;
+    width: 500px;
+    margin: 0 auto;
+    padding: 25px;  
+}
+
+.span{
+    color: #FF8000;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.span:hover, .span:focus{
+color: #104c90;
+}
