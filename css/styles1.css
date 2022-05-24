@@ -1,0 +1,69 @@
+body{
+    font-family: Lato;
+    font-size: 18px;
+    margin: 0;
+    font-weight: bold;
+}
+/* typhography */
+h1 {
+    font-size: 36px;
+}
+p{
+    font-weight: normal;
+}
+h2 {
+    font-size: 24px;
+    color: #EF5839;
+}
+
+/* layout */
+.header {
+    text-align: center;
+    background-color: #2E354F;
+    color: #FFF;
+    padding:30px;
+}
+.section-one {
+    width: 620px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.section-two {
+    /* margin: 0 auto; */
+    background: #2E354F;
+    color:#FFF;
+    align-items: center;
+    padding:50px;
+    
+}
+
+/* button */
+.btn {
+    padding: 5px 15px;
+}
+.btn-contact {
+    background: #EF5839;
+    color: #FFF;
+}
+
+.btn-more {
+    background: grey;
+    color: #2E354F;
+}
+
+.btn-contact:hover {
+    background:black;
+}
+.btn-contact:focus{
+    background: green;
+    color:aquamarine;
+}
+.btn-more:hover {
+    background: #FFF;
+}
+
+.btn-more:focus{
+    background: green;
+    color:aquamarine;
+}
